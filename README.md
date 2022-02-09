@@ -41,7 +41,7 @@ I have spent approximately 6 hours on the project.
 
 
 4. **Additional features**
-#  -------------------------ADDITIONAL FEATURES THAT I IMPLEMENTED------------------------
+#  ---------ADDITIONAL FEATURES THAT I IMPLEMENTED----------
 
   1. Add Typescript ([https://create-react-app.dev/docs/adding-typescript/](https://create-react-app.dev/docs/adding-typescript/)) to your application. Kudos if you turn on `strictNullChecks` and `noImplicitAny`!
   2. Allow users to "checkout" their current cart, which takes the user to a new page (React Router/next.js could be useful here!) containing a "receipt" with the courses they checked out with.
