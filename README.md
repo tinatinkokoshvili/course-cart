@@ -1,14 +1,14 @@
 # Penn Labs Frontend Challenge
 
-# -------------LIST OF FEATURES I IMPLEMENTED---------------------
+# -------------LIST OF FEATURES I IMPLEMENTED-------------
 
 ## Features
 
-I included these main features: ----------------------------------
+I included these main features: --------------------------
 Explore Courses, Add courses to your cart, View cart.
 The details of all the features are listed below within each main feature.
 
-Additional Features: ---------------------------------------------
+Additional Features: ------------------------------------
 Typescript, getting receipt upon checking out. animations for viesing the courses and cart, letting users rank the courses in the cart, take advantage of a linter, error-handling. All these 6 additional features are listed in the last section.
 
 1. **Explore courses**
